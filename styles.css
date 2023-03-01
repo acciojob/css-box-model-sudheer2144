@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+p{
+			background-color: #ADD8E6;
+            width: 300px;
+			padding: 50px;
+			border: 15px solid blue;
+            margin: 20px;
+}
